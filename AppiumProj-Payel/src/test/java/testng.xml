@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+    <classes>
+      <class name="gooleProject.GoogleKeepAdd"/>
+      <class name="gooleProject.GoogleKeepReminder"/>
+      <class name="gooleProject.GoogleTaskAdd"/>
+      <class name="chromeProject.ToDoListTest"/>
+      <class name="chromeProject.LoginForm"/>
+      <class name="chromeProject.LoginPopup"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
